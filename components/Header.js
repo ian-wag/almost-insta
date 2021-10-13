@@ -14,7 +14,7 @@ const Header = () => {
     <div className="shadow-sm border-b bg-white sticky top-0 z-50">
       <div className="flex justify-between max-w-6xl mx-5 lg:mx-auto">
         {/* LEFT  */}
-        <div className="relative hidden lg:inline-grid w-24">
+        <div className="relative hidden lg:inline-grid w-24 cursor-pointer">
           <Image
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/2880px-Instagram_logo.svg.png"
             layout="fill"
