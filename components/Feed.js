@@ -12,11 +12,12 @@ function Feed() {
       </section>
 
       <section className="hidden xl:inline-grid md:col-span-1">
-        {/* PROFILE */}
-        <MiniProfile />
-
-        {/* SUGGESTIONS */}
-        <Suggestions />
+        <div className="fixed top-20">
+          {/* PROFILE */}
+          <MiniProfile />
+          {/* SUGGESTIONS */}
+          <Suggestions />
+        </div>
       </section>
     </main>
   );
