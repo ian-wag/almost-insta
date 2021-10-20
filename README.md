@@ -1,8 +1,8 @@
-# Airbnb Clone
+# Almost Insta
 
 #### 📝 Description
 
-A clone of the popular home sharing website Airbnb!
+A social media photo sharing app resembling Instagram
 
 ### 👉 [LIVE DEMO](https://almost-insta.vercel.app/)
 
