@@ -10,6 +10,7 @@ A social media photo sharing app resembling Instagram
 
 - React
 - Next.js
+- NextAuth
 - Tailwind CSS
 - Recoil
 - Firebase
