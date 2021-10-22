@@ -16,7 +16,7 @@ import {
   UserGroupIcon as UserGroupIconFilled,
 } from '@heroicons/react/solid';
 
-export default function Example() {
+export default function DropdownMenu() {
   const [open, setOpen] = useRecoilState(modalState);
   return (
     <div>
