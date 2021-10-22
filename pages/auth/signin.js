@@ -5,12 +5,8 @@ function signIn({ providers }) {
   return (
     <>
       <Header />
-      <div className="flex flex-col items-center justify-center min-h-screen py-2 mt-56 px-14 text-center">
-        <img
-          className="w-80"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/2880px-Instagram_logo.svg.png"
-          alt="instagram logo"
-        />
+      <div className="flex flex-col items-center justify-center max-h-screen py-2 mt-56 px-14 text-center">
+        <img className="w-80" src="/AlmostInsta-logo.png" alt="instagram logo" />
         <p className="font-xs italic">
           Not the REAL INSTAGRAM. This website was built for practice only!
         </p>
